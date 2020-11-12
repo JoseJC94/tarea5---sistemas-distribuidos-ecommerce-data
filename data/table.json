@@ -1,0 +1,26 @@
+data = [
+	{
+		"_id": 1,
+		"name": "Tony Hawk",
+		"country": "United States",
+		"sex": "M"
+	},
+	{
+		"_id": 2,
+		"name": "Charles Negreanu",
+		"country": "United Kingdom",
+		"sex": "M"
+	},
+	{
+		"_id": 3,
+		"name": "María Arias",
+		"country": "Costa Rica",
+		"sex": "F"
+	},
+	{
+		"_id": 4,
+		"name": "Rebeca Sauruer",
+		"country": "United States",
+		"sex": "F"
+	}
+]
