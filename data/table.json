@@ -1,0 +1,26 @@
+data = [
+	{
+		"_id": 1,
+		"name": "Los Angeles",
+		"country": "United Unites",
+		"city": "Los Angeles"
+	},
+	{
+		"_id": 2,
+		"name": "Hartsfield Jackson",
+		"country": "United Unites",
+		"city": "Atlanta"
+	},
+	{
+		"_id": 3,
+		"name": "El Dorado",
+		"country": "Colombia",
+		"city": "Los Angeles"
+	},
+	{
+		"_id": 4,
+		"name": "Juan Santamaría",
+		"country": "Costa Rica",
+		"city": "San José"
+	}
+]
