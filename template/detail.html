@@ -14,11 +14,11 @@
   </div>
   <div class="row">
     <div class="six columns">
-       <label for="countryInput">Founded</label>
+       <label for="countryInput">Country</label>
        <input class="u-full-width" id="country" type="text" value="{{ country }}"  readonly/>
     </div>
     <div class="six columns">
-       <label for="sexInput">Genere</label>
+       <label for="sexInput">Sex</label>
        <input class="u-full-width" id="sex" type="text" value="{{ sex  }}"  readonly/>
     </div>
   </div>
@@ -27,6 +27,6 @@
 <h5>Flights</h5>
 <ul>
 {{#flights}}
-  <li><a href="https://flights-minisite.netlify.app/get?id={{flight_id}}">{{title}}</li>
+  <li><a href="https://flights-minisite.netlify.app/get?id={{_id}}">{{_id}} {{traveler}} {{airport}}</li>
 {{/flights}}
 </ul>
