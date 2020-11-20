@@ -2,7 +2,7 @@
 This section presents information about flights
 <p>
 <ul>
-  {{#.}}
-    <li><a href='/get/?id={{ _id }}'> {{ title }}</a></li>
-  {{/.}}
+    {{#.}}
+    <li><a href='/get/?id={{ _id }}'> {{_id}} {{ traveler }} {{airport}} </a></li>
+    {{/.}}
 </ul>
