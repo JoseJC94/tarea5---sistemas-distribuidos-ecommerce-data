@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb61988c-2797-4100-8155-376ce1fd6173" name="Default Changelist" comment="" />
+    <list default="true" id="fb61988c-2797-4100-8155-376ce1fd6173" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/template/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/template/list.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="C:\Users\TI\go\go1.15.5" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kAUg4yARV4g53SmonxVTwkZjXc" />
   <component name="ProjectViewState">
